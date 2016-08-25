@@ -1,19 +1,19 @@
 ---
+datePublished: '2016-08-25T18:33:17.251Z'
+sourcePath: _posts/2016-08-25-boston-or-bust.md
 inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: Boston or Bust
-datePublished: '2016-08-25T09:08:01.977Z'
-dateModified: '2016-08-25T09:07:42.249Z'
 authors: []
-publisher: {}
-title: ''
+hasPage: true
+keywords: []
 author: []
 via: {}
-starred: false
-sourcePath: _posts/2016-08-25-boston-or-bust.md
+dateModified: '2016-08-25T18:33:16.482Z'
+title: ''
+publisher: {}
+description: Boston or Bust
+inLanguage: null
+inNav: false
+starred: true
 url: boston-or-bust/index.html
 _type: Article
 
@@ -32,6 +32,6 @@ There is a big new trail, but far away.
 
 I can be there soon.
 
-And find new friends, read new books, speak the words, and 
+And find new friends, read new books, speak the words, and
 
 find something that I wasn't even looking for.
