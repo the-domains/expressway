@@ -1,0 +1,28 @@
+name: expressway
+favicon: null
+layout_spectrum: 0.43044283450581133
+typography_spectrum: 0.7489508793223649
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6354111072141677
+  lightness: 0.5851393807679415
+  saturation: 0.04679242894053459
+  rhythmicContrast: 0.6665374322328717
+purpose: []
